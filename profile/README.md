@@ -1,11 +1,11 @@
 # Projet SETAF
 
-## Le site du projet
+## Site du projet
 
 https://www.unige.ch/setaf
 
 
-## Les données 
+## Données 
 
 Work in progress
 
@@ -27,4 +27,6 @@ Work in progress
 
 ## Infrastructure
 
-Work in progress
+Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) de l'interface eScriptorium (https://gitlab.com/scripta/escriptorium). Les données de lemmatisation seront produites à l'aide de l'interface Pyrrha (https://dh.chartes.psl.eu/pyrrha/).
+
+
