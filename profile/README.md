@@ -9,7 +9,7 @@ Site du projet : https://www.unige.ch/setaf
 
 ## Financeur
 
-Ce projet est financé par le Fonds national suisse (FNS) et dirigé par la Prof.e Daniela Solfaroli Camillocci (IHR).
+Ce projet est financé par le Fonds national suisse (FNS).
 
 
 ## Données HTR
