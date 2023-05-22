@@ -1,13 +1,18 @@
 # Projet SETAF
 
-## Données 
+## Le site du projet
+
+https://www.unige.ch/setaf
+
+
+## Les données 
 
 Work in progress
 
 
 ## Financeur
 
-Work in progress
+Ce projet est financé par le Fonds national suisse (FNS) et dirigé par Daniela Solfaroli Camillocci (IHR).
 
 
 ## Projet
