@@ -14,8 +14,7 @@ Ce projet est financé par le Fonds national suisse (FNS).
 
 ## Données HTR
 
-Les données se trouvent dans les différents dépôts du projet au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont cataloguées sur HTR-United (https://htr-united.github.io). Les données ont été produites à l'aide de l'interface eScriptorium.
-
+Les données se trouvent dans les différents dépôts du projet au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont cataloguées sur HTR-United (https://htr-united.github.io). Les données sont produites à l'aide de l'interface eScriptorium et les fichiers ALTO sont corrigés manuellement.
 
 ## Infrastructure
 
