@@ -30,7 +30,6 @@ Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Sol
 @misc{solfrini_SETAF_2023,
   author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Szczech, Nathalie and Solfaroli Camillocci, Daniela},
   title={SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme},
-  version={0.9},
   address={Genève},
   publisher={université de Genève},
   year={2023},
