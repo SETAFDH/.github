@@ -2,7 +2,7 @@
 
 ## Projet
 
-La constitution d’un corpus numérique des textes de la première Réforme romande s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire (religieuse, artistique, littéraire et linguistique) à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel (1489-1565). Une importante dimension numérique est prévue pour la réalisation de ce projet, avec la numérisation de nombre d’imprimés d’une part (segmentation, OCR et encodage TEI), et l’exploitation computationnelle de ces données d’autre part (analyse linguistique et stylométrique).
+La constitution d’un corpus numérique des textes de la première Réforme romande s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire (religieuse, artistique, littéraire et linguistique) à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel (1489-1565). Une importante dimension numérique est prévue pour la réalisation de ce projet, avec la numérisation de nombre d’imprimés d’une part (OCR et encodage TEI), et l’exploitation computationnelle de ces données d’autre part (analyse linguistique et stylométrique).
 
 Site du projet : https://www.unige.ch/setaf
 
