@@ -34,7 +34,7 @@ Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Sol
   address={Genève},
   publisher={université de Genève},
   year={2023},
-  url={https://www.unige.ch/setaf},
+  url={https://github.com/SETAFDH},
   note={numéro de projet FNS : 205056},
 }
 ```
