@@ -24,11 +24,11 @@ Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDU
 
 ## Citer le projet 
 
-Sonia Solfrini, Geneviève Gross, Brigitte Roux, Daniela Solfaroli Camillocci, SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme, Genève, université de Genève, 2023, https://github.com/SETAFDH.
+Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Solfaroli Camillocci, _SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme_, Genève, université de Genève, 2023, https://github.com/SETAFDH.
 
 ```bibtex
 @misc{solfrini_SETAF_2023,
-  author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Solfaroli Camillocci, Daniela},
+  author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Szczech, Nathalie and Solfaroli Camillocci, Daniela},
   title={SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme},
   version={0.9},
   address={Genève},
