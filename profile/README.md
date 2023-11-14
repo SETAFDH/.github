@@ -21,6 +21,8 @@ Les données se trouvent dans les différents dépôts du projet au chemin ‘./
 
 Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'eScriptorium (https://gitlab.com/scripta/escriptorium).
 
+The computations were performed at University of Geneva using Baobab HPC service.
+
 
 ## Citer le projet 
 
