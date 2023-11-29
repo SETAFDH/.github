@@ -4,24 +4,42 @@
 
 La constitution d’un corpus numérique des textes de la première Réforme romande s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire (religieuse, artistique, littéraire et linguistique) à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel (1489-1565). Une importante dimension numérique est prévue pour la réalisation de ce projet, avec la numérisation de nombre d’imprimés d’une part (OCR et encodage TEI), et l’exploitation computationnelle de ces données d’autre part.
 
+GitHub du projet : https://github.com/SETAFDH 
+
 Site du projet : https://www.unige.ch/setaf
 
 
 ## Financeur
 
-Ce projet est financé par le Fonds national suisse (FNS).
-Numéro de projet : 205056 (https://data.snf.ch/grants/grant/205056).
+Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 205056 (https://data.snf.ch/grants/grant/205056).
 
 
-## Données HTR
+## Données OCR
 
-Les données se trouvent dans les différents dépôts du projet au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io).
+Les données OCR se trouvent dans les dépôts suivants :
+- https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
+- https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
+- https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
+- https://github.com/SETAFDH/OCR-Malingre
+
+
+Les données se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation SegmOnto (https://segmonto.github.io) et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
+
+Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe du projet : Solfrini et al., Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques, Version A, 2023, https://hal.science/hal-04281804.
+
 
 ## Infrastructure
 
-Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'eScriptorium (https://gitlab.com/scripta/escriptorium).
+Les données pour l'OCR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'eScriptorium (https://gitlab.com/scripta/escriptorium).
 
 Les calculs sont effectués à l'Université de Genève en utilisant le service Baobab HPC : https://www.unige.ch/eresearch/fr/services/hpc/.
+
+
+## Données TEI
+
+Les données TEI se trouvent dans les dépôts suivants :
+- https://github.com/SETAFDH/TEI-SETAF
+- https://github.com/SETAFDH/TEI-Malingre
 
 
 ## Citer le projet 
