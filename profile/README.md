@@ -2,7 +2,7 @@
 
 ## Projet
 
-La constitution d’un corpus numérique des imprimés évangéliques romands s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel à partir des années 1530 : les *Faits de Jésus Christ et du pape*. Une importante dimension numérique est prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
+La constitution d’un corpus numérique d'imprimés évangéliques romands à l'époque de la Réforme s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel à partir des années 1530 : les *Faits de Jésus Christ et du pape*. Une importante dimension numérique est prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
 
 GitHub du projet : https://github.com/SETAFDH 
 
