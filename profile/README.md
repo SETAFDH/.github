@@ -16,9 +16,8 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 ## Données TEI
 
-Les données TEI se trouvent dans les dépôts suivants :
+Les données TEI se trouvent dans le dépôt suivant :
 - https://github.com/SETAFDH/TEI-SETAF
-- https://github.com/SETAFDH/TEI-Malingre
 
 
 ## Données OCR
