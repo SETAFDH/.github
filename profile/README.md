@@ -16,7 +16,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 ## Données TEI
 
-Les données TEI se trouvent dans le dépôt suivant :
+Les données TEI se trouvent dans les dépôts suivants :
 - https://github.com/SETAFDH/TEI-SETAF
   
   (comprenant les données OCR des dépôts HTR-SETAF-Pierre-de-Vingle, HTR-SETAF-Jean-Michel et HTR-SETAF-LesFaictzJCH)
