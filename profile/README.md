@@ -24,15 +24,6 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans le dépôt suivant :
 - [HTR-Varia-Malingre](https://github.com/SETAFDH/HTR-Varia-Malingre)
 
-
-## Données OCR
-
-Les données OCR se trouvent dans les dépôts suivants :
-- https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
-- https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
-- https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
-- https://github.com/SETAFDH/HTR-Varia-Malingre
-
 Les données OCR se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation SegmOnto (https://segmonto.github.io) et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
 
 Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe : Solfrini et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, 2023, https://hal.science/hal-04281804.
