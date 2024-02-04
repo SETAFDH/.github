@@ -11,7 +11,7 @@ Site du projet : https://www.unige.ch/setaf
 
 ## Financeur
 
-Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 205056 (https://data.snf.ch/grants/grant/205056).
+Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
 
 ## Données TEI et OCR
@@ -24,7 +24,7 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans le dépôt suivant :
 - [HTR-Varia-Malingre](https://github.com/SETAFDH/HTR-Varia-Malingre)
 
-Les données OCR se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation SegmOnto (https://segmonto.github.io) et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
+Les données OCR se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation de [SegmOnto](https://segmonto.github.io) et sont cataloguées sur [HTR-United](https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
 
 Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe : Solfrini et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, 2023, https://hal.science/hal-04281804.
 
@@ -33,7 +33,7 @@ La release d'un modèle d'OCR pour les imprimés français du XVIe siècle en ca
 
 ## Infrastructure
 
-Les données pour l'OCR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'eScriptorium (https://gitlab.com/scripta/escriptorium).
+Les données pour l'OCR sont produites à l'aide de l’instance genevoise [FoNDUE](https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'[eScriptorium](https://gitlab.com/scripta/escriptorium).
 
 Les calculs sont effectués à l'Université de Genève en utilisant le [service HPC](https://www.unige.ch/eresearch/fr/services/hpc/).
 
