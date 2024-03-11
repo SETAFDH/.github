@@ -21,8 +21,9 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 - [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
 - [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques)
   
-Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans le dépôt suivant :
-- [HTR-Varia-Malingre](https://github.com/SETAFDH/HTR-Varia-Malingre)
+Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
+- [HTR-Varia-Malingre-romain](https://github.com/SETAFDH/HTR-Varia-Malingre-romain) (caractères romains)
+- [HTR-Varia-Malingre-gothique](https://github.com/SETAFDH/HTR-Varia-Malingre-gothique) (caractères gothiques)
 
 Les données OCR se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation de [SegmOnto](https://segmonto.github.io) et sont cataloguées sur [HTR-United](https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
 
