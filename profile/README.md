@@ -2,7 +2,9 @@
 
 ## Projet
 
-Le volet numérique du projet SETAF entend construire un corpus de textes de l’époque de la Réforme, comprenant les textes écrits et réédités par Guillaume Farel (1489-1565) et son cercle. Le corpus primaire comprend les ouvrages publiés par les imprimeurs Pierre de Vingle et Jean Michel, actifs respectivement dans les années 1525-1535 et 1538-1545, entre Genève et Neuchâtel. Ce corpus permettra de développer des outils d’analyse textuelle spécifiques pour la Réforme francophone et des modèles pour le traitement automatique des imprimés du XVIe siècle en langue française. Une importante dimension numérique est donc prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
+Le volet numérique du projet SETAF entend construire un corpus de textes de l’époque de la Réforme, comprenant les textes écrits et réédités par Guillaume Farel (1489-1565) et son cercle. Le corpus primaire comprend les ouvrages publiés par les imprimeurs Pierre de Vingle et Jean Michel, actifs respectivement dans les années 1525-1535 et 1538-1545, entre Genève et Neuchâtel. 
+
+Ce corpus permettra de développer des outils d’analyse textuelle spécifiques pour la Réforme francophone et des modèles pour le traitement automatique des imprimés du XVIe siècle en langue française. Une importante dimension numérique est donc prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
 
 GitHub du projet : https://github.com/SETAFDH 
 
