@@ -2,7 +2,7 @@
 
 ## Projet
 
-La constitution d’un corpus numérique d'imprimés évangéliques romands à l'époque de la Réforme s’inscrit dans le cadre du projet SETAF qui entend mener une ample investigation historique à caractère pluridisciplinaire à partir d’un ouvrage singulier émanant du milieu éditorial du « groupe de Neuchâtel », réuni autour du réformateur Guillaume Farel à partir des années 1530 : les *Faits de Jésus Christ et du pape*. Une importante dimension numérique est prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
+Le volet numérique du projet SETAF entend construire un corpus de textes numériques de l’époque de la Réforme, comprenant les textes écrits et réédités par Guillaume Farel (1489-1565) et son cercle. Le corpus primaire comprend les ouvrages publiés par les imprimeurs Pierre de Vingle et Jean Michel, actifs respectivement dans les années 1525-1535 et 1538-1545, entre Genève et Neuchâtel. Ce corpus permettra de développer des outils d’analyse textuelle spécifiques pour la Réforme francophone et des modèles pour le traitement automatique des imprimés du XVIe siècle en langue française. Une importante dimension numérique est donc prévue pour la réalisation de ce projet, avec l'océrisation de nombre d’imprimés d’une part et l’exploitation computationnelle de ces données d’autre part.
 
 GitHub du projet : https://github.com/SETAFDH 
 
