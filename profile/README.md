@@ -31,20 +31,13 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 Notre modèle d'OCR, CATMuS Gothic Print, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
 
 
-## Infrastructure
-
-Les données pour l'OCR sont produites à l'aide de l’instance genevoise [FoNDUE](https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'[eScriptorium](https://gitlab.com/scripta/escriptorium).
-
-Les calculs sont effectués à l'Université de Genève en utilisant le [service HPC](https://www.unige.ch/eresearch/fr/services/hpc/).
-
-
 ## Publications
 
-Sonia Solfrini, et al. _Étudier le « groupe de Neuchâtel » : De l'édition des Faits à un corpus numérique de la première Réforme romande_. Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse, ⟨hal-04097381⟩.
+Sonia Solfrini, et al. _Étudier le « groupe de Neuchâtel » : De l'édition des Faits à un corpus numérique de la première Réforme romande_. Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse, [⟨hal-04097381⟩](https://hal.science/hal-04097381).
 
-Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, novembre 2023, [⟨hal-04281804⟩](https://hal.science/hal-04281804).
+Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, novembre 2023. [⟨hal-04281804⟩](https://hal.science/hal-04281804).
 
-Sonia Solfrini, et al. _Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques_. Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. ⟨hal-04555002⟩.
+Sonia Solfrini, et al. _Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques_. Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. [⟨hal-04555002⟩](https://hal.science/hal-04555002).
 
 
 ## Citer le projet 
