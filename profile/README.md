@@ -25,9 +25,8 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 - [HTR-Varia-Malingre-romain](https://github.com/SETAFDH/HTR-Varia-Malingre-romain) (caractères romains)
 - [HTR-Varia-Malingre-gothique](https://github.com/SETAFDH/HTR-Varia-Malingre-gothique) (caractères gothiques)
 
-Les données OCR se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation de [SegmOnto](https://segmonto.github.io) et sont cataloguées sur [HTR-United](https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV de chaque dépôt ("gold" ou "en cours").
 
-Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe : Solfrini et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, 2023, https://hal.science/hal-04281804.
+## Modelès
 
 Notre modèle d'OCR, CATMuS Gothic Print, est disponible en ligne : https://zenodo.org/records/10599911.
 
@@ -37,6 +36,15 @@ Notre modèle d'OCR, CATMuS Gothic Print, est disponible en ligne : https://zeno
 Les données pour l'OCR sont produites à l'aide de l’instance genevoise [FoNDUE](https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'[eScriptorium](https://gitlab.com/scripta/escriptorium).
 
 Les calculs sont effectués à l'Université de Genève en utilisant le [service HPC](https://www.unige.ch/eresearch/fr/services/hpc/).
+
+
+## Publications
+
+Sonia Solfrini, et al. _Étudier le « groupe de Neuchâtel » : De l'édition des Faits à un corpus numérique de la première Réforme romande_. Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse, ⟨hal-04097381⟩.
+
+Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, 2023, https://hal.science/hal-04281804.
+
+Sonia Solfrini, et al. _Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques_. Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. ⟨hal-04555002⟩.
 
 
 ## Citer le projet 
