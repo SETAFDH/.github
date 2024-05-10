@@ -28,6 +28,11 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 - [HTR-Varia-Malingre-gothique](https://github.com/SETAFDH/HTR-Varia-Malingre-gothique) (caractères gothiques)
 
 
+## Données d'annotation linguistique
+
+à venir
+
+
 ## Modelès
 
 Notre modèle d'OCR, CATMuS Gothic Print, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
