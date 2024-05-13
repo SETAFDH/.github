@@ -30,7 +30,7 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 
 ## Données d'annotation linguistique
 
-à venir
+[Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF)
 
 
 ## Modelès
