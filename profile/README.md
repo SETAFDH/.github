@@ -33,7 +33,7 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF)
 
 
-## Modelès
+## Modelès d'IA
 
 Notre modèle d'OCR, CATMuS Gothic Print, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
 
