@@ -21,7 +21,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
 - [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
 - [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
-- [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques)
+- [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques et romains)
   
 Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
 - [HTR-Varia-Malingre-romain](https://github.com/SETAFDH/HTR-Varia-Malingre-romain) (caractères romains)
