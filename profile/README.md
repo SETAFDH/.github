@@ -31,7 +31,7 @@ Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) c
 
 ## Données d'annotation linguistique
 
-[Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF)
+Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données annotées dans le cadre du projet SETAF.
 
 
 ## Modelès d'IA
