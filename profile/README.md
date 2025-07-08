@@ -47,6 +47,8 @@ Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du 
 
 Sonia Solfrini, et al. _Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques_. Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. [⟨hal-04555002⟩](https://hal.science/hal-04555002).
 
+Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes. « Normaliser le moyen français : du graphématique au semi-diplomatique, Actes de CORIA-TALN-RJCRI-RECITAL 2025, juillet 2025, Marseille, France.
+
 
 ## Citer le projet 
 
