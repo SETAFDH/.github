@@ -22,7 +22,7 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 - [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
 - [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
 - [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques et romains)
-- [HTR-SETAF-autres-romains](https://github.com/SETAFDH/SETAF-autres-romain) (caractères romains)
+- [HTR-SETAF-autres-romain](https://github.com/SETAFDH/SETAF-autres-romain) (caractères romains)
 - 
 
 
