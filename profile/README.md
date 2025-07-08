@@ -16,19 +16,6 @@ Site du projet : https://www.unige.ch/setaf
 Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
 
-## Données TEI et OCR
-
-Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
-- [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
-- [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
-- [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques et romains)
-- [HTR-SETAF-autres-romains](https://github.com/SETAFDH/SETAF-autres-romain) (caractères romains)
-  
-Le dépôt [TEI-Varia-Malingre](https://github.com/SETAFDH/TEI-Varia-Malingre) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
-- [HTR-Varia-Malingre-romain](https://github.com/SETAFDH/HTR-Varia-Malingre-romain) (caractères romains)
-- [HTR-Varia-Malingre-gothique](https://github.com/SETAFDH/HTR-Varia-Malingre-gothique) (caractères gothiques)
-
-
 ## Données d'annotation linguistique
 
 Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données annotées dans le cadre du projet SETAF.
@@ -36,18 +23,20 @@ Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation
 
 ## Modelès d'IA
 
-Notre modèle d'OCR, CATMuS Gothic Print, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
+Notre modèle d'OCR, _CATMuS Gothic Print_, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
+
+Notre modèle de normalisation, _FreEM SemiD norm model_, est disponible sur Zenodo : [15551750](https://zenodo.org/records/15551750).
 
 
 ## Publications
 
-Sonia Solfrini, et al. _Étudier le « groupe de Neuchâtel » : De l'édition des Faits à un corpus numérique de la première Réforme romande_. Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse. [⟨hal-04097381⟩](https://hal.science/hal-04097381).
+Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci. « Étudier le ‘groupe de Neuchâtel’ : De l'édition des Faits à un corpus numérique de la première Réforme romande », Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse. [⟨hal-04097381⟩](https://hal.science/hal-04097381).
 
 Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_. Document de travail, version A, novembre 2023. [⟨hal-04281804⟩](https://hal.science/hal-04281804).
 
-Sonia Solfrini, et al. _Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques_. Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. [⟨hal-04555002⟩](https://hal.science/hal-04555002).
+Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Geneviève Gross, Daniela Solfaroli Camillocci. «Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques », Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. [⟨hal-04555002⟩](https://hal.science/hal-04555002).
 
-Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes. _Normaliser le moyen français : du graphématique au semi-diplomatique_, Actes de CORIA-TALN-RJCRI-RECITAL 2025, juillet 2025, Marseille, France.
+Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes. « Normaliser le moyen français : du graphématique au semi-diplomatique », actes de CORIA-TALN-RJCRI-RECITAL 2025, juillet 2025, Marseille, France.
 
 
 ## Citer le projet 
