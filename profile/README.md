@@ -16,6 +16,16 @@ Site du projet : https://www.unige.ch/setaf
 Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
 
+## Données TEI et OCR
+
+Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
+- [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
+- [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
+- [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques et romains)
+- [HTR-SETAF-autres-romains](https://github.com/SETAFDH/SETAF-autres-romain) (caractères romains)
+- 
+
+
 ## Données d'annotation linguistique
 
 Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données annotées dans le cadre du projet SETAF.
