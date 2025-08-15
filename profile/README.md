@@ -42,7 +42,7 @@ Notre modèle de normalisation, _FreEM SemiD norm model_, est disponible sur Zen
 
 Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci. « Étudier le ‘groupe de Neuchâtel’ : de l'édition des Faits à un corpus numérique de la première Réforme romande », Humanistica 2023, Association francophone des humanités numériques, juin 2023, Genève, Suisse. [⟨hal-04097381⟩](https://hal.science/hal-04097381).
 
-Sonia Solfrini, et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_. Document de travail, version A, novembre 2023. [⟨hal-04281804⟩](https://hal.science/hal-04281804).
+Sonia Solfrini, Simon Gabay, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Daniela Solfaroli Camillocci. « Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques », document de travail, version A, novembre 2023. [⟨hal-04281804⟩](https://hal.science/hal-04281804).
 
 Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Geneviève Gross, Daniela Solfaroli Camillocci. « Océriser les imprimés du XVIe siècle en langue française : le cas d’un corpus romand en caractères gothiques », Humanistica 2024, Association francophone des humanités numériques, mai 2024, Meknès, Maroc. [⟨hal-04555002⟩](https://hal.science/hal-04555002).
 
