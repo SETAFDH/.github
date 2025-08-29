@@ -51,16 +51,5 @@ Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beauln
 
 ## Citer le projet 
 
-Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Solfaroli Camillocci, _SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme_(2023-2026), Genève, Université de Genève | IHR, https://www.unige.ch/setaf.
-
-```bibtex
-@misc{SETAF,
-  author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Szczech, Nathalie and Solfaroli Camillocci, Daniela},
-  title={SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme (2023-2026)},
-  address={Genève},
-  publisher={Université de Genève | IHR},
-  url={https://www.unige.ch/setaf},
-  note={numéro de projet FNS : 205056},
-}
-```
+à venir
 
