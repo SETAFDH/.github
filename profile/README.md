@@ -16,7 +16,7 @@ Site du projet : https://www.unige.ch/setaf
 Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
 
-## Données TEI et OCR
+## Données TEI
 
 Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en XML-TEI du corpus du projet SETAF.
 
