@@ -18,7 +18,11 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 
 ## Données TEI et OCR
 
-Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en TEI des données OCR contenues dans les dépôts suivants :
+Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en XML-TEI du corpus du projet SETAF.
+
+
+## Données OCR
+
 - [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
 - [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
 - [HTR-SETAF-LesFaictzJCH](https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH) (caractères gothiques et romains)
@@ -28,7 +32,7 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 
 ## Données d'annotation linguistique
 
-Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données annotées dans le cadre du projet SETAF.
+Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données d'annotation linguistique du projet SETAF.
 
 
 ## Modelès d'IA
