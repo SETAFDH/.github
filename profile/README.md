@@ -10,16 +10,19 @@ GitHub du projet : https://github.com/SETAFDH
 
 Site du projet : https://www.unige.ch/setaf
 
-
 ## Financeur
 
 Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
+---
+## TEI Publisher
+
+[SETAF-app](https://github.com/SETAFDH/SETAF-app)
+[SETAF-app-data](https://github.com/SETAFDH/SETAF-app-data)
 
 ## Données TEI
 
 Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes en XML-TEI du corpus du projet SETAF.
-
 
 ## Données OCR
 
@@ -29,18 +32,16 @@ Le dépôt [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF) comprend les textes
 - [SETAF-autres-romain](https://github.com/SETAFDH/SETAF-autres-romain) (caractères romains)
 - [SETAF-autres-gothique](https://github.com/SETAFDH/SETAF-autres-gothique) (caractères gothiques)
 
-
 ## Données d'annotation linguistique
 
 Le dépôt [Annotation-linguistique-SETAF](https://github.com/SETAFDH/Annotation-linguistique-SETAF) comprend les données d'annotation linguistique du projet SETAF.
 
-
+---
 ## Modelès d'IA
 
 Notre modèle d'OCR, _CATMuS Gothic Print_, est disponible sur Zenodo : [10599911](https://zenodo.org/records/10599911).
 
 Notre modèle de normalisation, _FreEM SemiD norm model_, est disponible sur Zenodo : [15551750](https://zenodo.org/records/15551750).
-
 
 ## Publications
 
@@ -52,8 +53,6 @@ Sonia Solfrini, Simon Gabay, Maxime Humeau, Ariane Pinche, Pierre-Olivier Beaul
 
 Sonia Solfrini, Mylène Dejouy, Aurélia Marques Oliveira, Pierre-Olivier Beaulnes. « Normaliser le moyen français : du graphématique au semi-diplomatique », actes de CORIA-TALN-RJCRI-RECITAL 2025, juillet 2025, Marseille, France. [⟨hal-05137564⟩](https://hal.science/hal-05137564).
 
-
 ## Citer le projet 
 
 à venir
-
