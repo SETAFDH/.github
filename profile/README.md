@@ -28,7 +28,7 @@ Les dépôts suivants comprennent les textes en XML-TEI du corpus du projet SETA
 
 ## Données OCR
 
-Les dépôts suivants comprennent les données OCR du corpus du projet SETAF.
+Les dépôts suivants comprennent les données OCR du corpus du projet SETAF :
 
 - [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle) (caractères gothiques)
 - [HTR-SETAF-Jean-Michel](https://github.com/SETAFDH/HTR-SETAF-Jean-Michel) (caractères gothiques)
