@@ -23,8 +23,10 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 ## Données TEI
 
 Les dépôts suivants comprennent les textes en XML-TEI du corpus du projet SETAF :
-- la version de travail : [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF)
-- la version finale sur TEI Publisher : [SETAF-app-data/tree/main/data/corpus](https://github.com/SETAFDH/SETAF-app-data/tree/main/data/corpus)
+- [TEI-SETAF](https://github.com/SETAFDH/TEI-SETAF)
+- [SETAF-app-data/tree/main/data/corpus](https://github.com/SETAFDH/SETAF-app-data/tree/main/data/corpus)
+  
+Les données sont identiques dans les deux dépôts.
 
 ## Données OCR
 
